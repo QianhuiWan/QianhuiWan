@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Bioinformatics research (cancer screening methods)
+- 🔭 I’m currently working on Bioinformatics research (eary cancer detection methods)
 - 🌱 I’m currently learning more algorithms 
 - 👯 I’m looking to collaborate on medical research
 - 🤔 I’m looking for help with different algorithms 
