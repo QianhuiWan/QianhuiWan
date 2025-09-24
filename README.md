@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about DNA methylation analyses and DNA-seq analyses (DNA methylation Array, WGBS, WGS)
 - 📫 How to reach me: wanqianhui@outlook.com or qwan@coh.org
 - 😄 Pronouns: Happiness
-- ⚡ Fun fact: The secret to having it all, is knowing you already do
+- ⚡ Fun fact: The secret to having it all, is knowing you already do🥰
